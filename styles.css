@@ -40,9 +40,17 @@ body {
     font-size: 24px;
 }
 
-.hero-banner {
+.hero-banner-container {
     background-color: #1F2937;
     color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+}
+
+.hero-banner {
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .hero-banner button {
