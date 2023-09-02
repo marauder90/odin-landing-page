@@ -9,3 +9,19 @@ body {
     flex-direction: column;
     justify-content: center;
 }
+
+.header {
+    background-color: #1F2937;
+}
+
+.hero-banner {
+    background-color: #1F2937;
+}
+
+.quote-container {
+    background-color: #E5E7EB;
+}
+
+.footer {
+    background-color: #1F2937;
+}
