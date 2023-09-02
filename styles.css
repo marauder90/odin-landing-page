@@ -24,6 +24,12 @@ body {
     color: #F9FAF8;
 }
 
+.hero-banner button {
+    background-color: #3882F6;
+    border: 0px solid #F9FAF8;
+    color: #F9FAF8;
+}
+
 .information-container {
     color: #1F2937;
 }
@@ -35,6 +41,12 @@ body {
 
 .call-to-action-block {
     background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+.call-to-action-block button {
+    background-color: #3882F6;
+    border: 1px solid #F9FAF8;
     color: #F9FAF8;
 }
 
