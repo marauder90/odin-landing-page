@@ -12,16 +12,28 @@ body {
 
 .header {
     background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.header a {
+    color: #F9FAF8;
 }
 
 .hero-banner {
     background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.information-container {
+    color: #1F2937;
 }
 
 .quote-container {
     background-color: #E5E7EB;
+    color: #1F2937;
 }
 
 .footer {
     background-color: #1F2937;
+    color: #F9FAF8;
 }
