@@ -20,6 +20,7 @@ body {
     width: 900px;
     padding: 16px 0px;
     color: #F9FAF8;
+    font-size: 18px;
     display: flex;
     justify-content: space-between;
     align-items: center;
