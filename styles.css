@@ -33,6 +33,11 @@ body {
     color: #1F2937;
 }
 
+.call-to-action-block {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
 .footer {
     background-color: #1F2937;
     color: #F9FAF8;
