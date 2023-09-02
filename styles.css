@@ -57,6 +57,7 @@ body {
 }
 
 .hero-banner button {
+    margin-top: 16px;
     padding: 4px 24px;
     background-color: #3882F6;
     border: 0px solid #F9FAF8;
@@ -95,6 +96,7 @@ body {
 }
 
 .call-to-action-block button {
+    margin-top: 16px;
     padding: 4px 24px;
     background-color: #3882F6;
     border: 1px solid #F9FAF8;
