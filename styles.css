@@ -50,14 +50,31 @@ body {
 
 .hero-banner {
     width: 900px;
+    padding: 96px 0px;
     display: flex;
     justify-content: space-between;
+    gap: 48px;
 }
 
 .hero-banner button {
     background-color: #3882F6;
     border: 0px solid #F9FAF8;
     color: #F9FAF8;
+}
+
+.hero-banner img {
+    flex: 1;
+    border: 1px solid #E5E7EB;
+}
+
+.hero-text {
+    width: 400px;
+    font-size: 18px;
+}
+
+.hero-text h1 {
+    font-size: 48px;
+    font-weight: bolder;
 }
 
 .information-container {
