@@ -9,5 +9,5 @@ I will write all content contained within the index.html and styles.css source f
 ## Image credits
 - Hot Air Balloons hero image by Cleverpix via [pixabay](https://pixabay.com/photos/sky-hot-air-balloons-sunset-1373167/)
 - Purple Monster image by Saydung89 via [pixabay](https://pixabay.com/illustrations/monster-character-cute-animal-6255501/)
-- Green Monster image by Saydung via [pixabay](https://pixabay.com/vectors/monster-character-cartoon-creature-5734475/)
+- Green Monster image by Saydung89 via [pixabay](https://pixabay.com/vectors/monster-character-cartoon-creature-5734475/)
 - Red Monster image by Saydung89 via [pixabay](https://pixabay.com/illustrations/fan-hot-monster-electric-6032154/)
