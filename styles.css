@@ -57,6 +57,7 @@ h3 {
     padding: 96px 0px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     gap: 48px;
 }
 
@@ -70,13 +71,17 @@ h3 {
     font-size: 18px;
 }
 
-.hero-banner img {
+.image-container {
     flex: 1;
-    border: 1px solid #E5E7EB;
+}
+
+.hero-banner img {
+    width: 100%;
+    object-fit: contain;
 }
 
 .hero-text {
-    width: 400px;
+    flex: 0 0 400px;
     font-size: 18px;
 }
 
