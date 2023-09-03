@@ -11,4 +11,4 @@ I will write all content contained within the index.html and styles.css source f
 - Purple Monster image by Saydung89 via [pixabay](https://pixabay.com/illustrations/monster-character-cute-animal-6255501/)
 - Green Monster image by Saydung89 via [pixabay](https://pixabay.com/vectors/monster-character-cartoon-creature-5734475/)
 - Red Monster image by Saydung89 via [pixabay](https://pixabay.com/illustrations/fan-hot-monster-electric-6032154/)
-- Yellow Monster image by Saydung89 via [pixabay](https://pixabay.com/illustrations/fan-hot-monster-electric-6032154/)
+- Yellow Monster image by Saydung89 via [pixabay](https://pixabay.com/vectors/monster-character-funny-face-5930787/)
